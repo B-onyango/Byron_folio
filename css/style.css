@@ -1,0 +1,41 @@
+.position{
+position: relative;
+left: 250px;
+}
+
+.position2 {
+    position: relative;
+    left: 250px;
+}
+
+.bg{
+    background-color: orange;
+}
+
+.gap{
+    gap: 58px;
+}
+
+.space{
+    position: relative;
+    top: 70px;
+}
+
+.footer{
+    position: relative;
+    bottom: 100px;
+}
+
+.footer2{
+    position: relative;
+    bottom: 200px;
+}
+
+.background{
+    height: 100px;
+}
+
+.bg-dark{
+    height: 36rem;
+    
+}
